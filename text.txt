@@ -1,3 +1,3 @@
 git learning document
 first line has some changes!
-second line
+second line changed!
